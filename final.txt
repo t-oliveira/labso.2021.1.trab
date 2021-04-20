@@ -1,0 +1,14 @@
+backup-charlotte
+charlotte1.txt
+charlotte25
+charlotte2.txt
+charlotte3.txt
+final.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+README.md
+trab1-charlotte.txt
+ultimocomando.txt
